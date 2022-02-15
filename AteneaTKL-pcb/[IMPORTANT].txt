@@ -1,0 +1,4 @@
+I misplaced MOSI and MISO pins in the microcontroller.
+In order to not destroy it, connect in the 6 pin header
+the MOSI into the MISO pin, this is what connect to pin 1 must go
+to pin 4 and what goes to pin 4 must go to pin 1

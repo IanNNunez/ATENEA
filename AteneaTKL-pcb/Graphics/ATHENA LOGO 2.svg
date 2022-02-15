@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="ATHENA LOGO 2.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   id="svg977"
+   version="1.1"
+   viewBox="0 0 210 297"
+   height="297mm"
+   width="210mm">
+  <defs
+     id="defs971" />
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="1072"
+     inkscape:window-height="1017"
+     inkscape:window-width="1920"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="463.29164"
+     inkscape:cx="482.55165"
+     inkscape:zoom="0.7"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata974">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Capa 1">
+    <text
+       id="text981"
+       y="32.219059"
+       x="71.682571"
+       style="font-style:normal;font-weight:normal;font-size:24.6893px;line-height:0;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.617234"
+       xml:space="preserve"><tspan
+         y="32.219059"
+         x="71.682571"
+         id="tspan1015"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32.9192px;line-height:0.65;font-family:'Bookman Old Style';-inkscape-font-specification:'Bookman Old Style';text-align:center;text-anchor:middle;stroke-width:0.617234">ΑΘΗΝΑ</tspan><tspan
+         id="tspan983"
+         style="font-size:9.87575px;line-height:1.25;text-align:center;letter-spacing:0px;text-anchor:middle;stroke-width:0.617234"
+         y="43.339382"
+         x="71.682571"
+         sodipodi:role="line">REV : 1</tspan></text>
+    <rect
+       y="45.771992"
+       x="9.3715172"
+       height="1.3363476"
+       width="126.15121"
+       id="rect1017"
+       style="fill:#000000;stroke-width:0.264583" />
+    <path
+       inkscape:transform-center-y="9.3687783"
+       inkscape:transform-center-x="0.015204915"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="true"
+       sodipodi:arg2="-1.571606"
+       sodipodi:arg1="-2.6188036"
+       sodipodi:r2="18.763891"
+       sodipodi:r1="37.527779"
+       sodipodi:cy="68.186129"
+       sodipodi:cx="71.985428"
+       sodipodi:sides="3"
+       id="path1024"
+       style="fill:#000000;stroke-width:0.272783"
+       sodipodi:type="star"
+       d="M 39.470235,49.44856 104.47023,49.395928 72.015815,105.71389 Z" />
+  </g>
+</svg>

@@ -1,6 +1,0 @@
-Poner 2u backspace en el sitio correcto
-Poner cambiar el orden de MOSI y MISO pin en la ATmega
-Poner bien los capacitores (cerca del mcu)
-Tecla FN arreglar traces
-Silkscreen donde pueda verse mejor (BOOT y Reset no se ven)
-Diodo 84 no conectado a MCU
